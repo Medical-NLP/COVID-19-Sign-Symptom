@@ -29,6 +29,8 @@ Reference
 [4] COVID-19 Signs and Symptoms. GitHub. https://github.com/Medical-NLP/COVID-19-Sign-Symptom
 
 
+Contact: Yaoyun.Zhang@melaxtech.com
+
 
 
 

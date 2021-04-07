@@ -30,10 +30,13 @@ Reference
 
 
 
-
-Please feel free to email me if you have any questions or want to make contributions to the list of COVID-19 signs and symptom: Yaoyun.Zhang@melaxtech.com
-
+Our paper is published in Journal of the American Medical Informatics Association. Please cite the paper using the follow refernce:
 
 
+Wang, J., Abu, N., Gray, J., Anh, H., Zhou, Y., Manion, F., Liu, M., Song, X., Xu, H., Rouhizadeh, M. and Zhang, Y., COVID-19 SignSym–A fast adaptation of general clinical NLP tools to identify and normalize COVID-19 signs and symptoms to OMOP common data model. JAMIA, March 1, 2021.
+
+The full text of the article can be accessed here: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab015/6155732?guestAccessKey=55f84f70-fdc4-45d0-a8da-84a318d54a6e
+
+Please feel free to email us if you have any questions or want to make contributions to the list of COVID-19 signs and symptoms: Yaoyun.Zhang@melaxtech.com
 
 

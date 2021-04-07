@@ -36,7 +36,7 @@ The online demo of the CLAMP COVID-19 NLP pipeline is hosted here: https://clamp
 Our paper has been published in the Journal of the American Medical Informatics Association. The full text of the article can be accessed here: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab015/6155732?guestAccessKey=55f84f70-fdc4-45d0-a8da-84a318d54a6e. 
 
 
-Please cite the paper of the COVID-19 NLP pipeline and the CLAMP clinical text processing toolkit using the following citations:
+Please cite the paper of the COVID-19 NLP pipeline and the CLAMP clinical text processing toolkit using the following references:
 
 
 Wang, J., Abu, N., Gray, J., Anh, H., Zhou, Y., Manion, F., Liu, M., Song, X., Xu, H., Rouhizadeh, M. and Zhang, Y., COVID-19 SignSym–a fast adaptation of general clinical NLP tools to identify and normalize COVID-19 signs and symptoms to OMOP common data model. Journal of the American Medical Informatics Association, March 1, 2021.

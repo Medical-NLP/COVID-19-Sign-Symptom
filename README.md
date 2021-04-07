@@ -29,10 +29,13 @@ Reference
 [4] COVID-19 Signs and Symptoms. GitHub. https://github.com/Medical-NLP/COVID-19-Sign-Symptom
 
 
+
 The online demo of the CLAMP COVID-19 NLP pipeline is hosted here: https://clamp.uth.edu/covid/nlp.php
 
 
 Our paper has been published in the Journal of the American Medical Informatics Association. The full text of the article can be accessed here: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab015/6155732?guestAccessKey=55f84f70-fdc4-45d0-a8da-84a318d54a6e. 
+
+
 Please cite the paper of the COVID-19 NLP pipeline and the CLAMP clinical text processing toolkit using the following citations:
 
 
